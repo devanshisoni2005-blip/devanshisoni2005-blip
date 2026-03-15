@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Devanshi soni
 **A passionate web developer.
-I m from Madhya Pradesh pursuing B.TECH CSE 
-in Bharath University , hennai ,Tamil Nadu
+I m from Madhya Pradesh and currently pursuing B.TECH CSE 
+in Bharath University , chennai ,Tamil Nadu
 -🔭 **I’m currently working on:** free lancing web application.
 - 🌱 **I’m currently learning:** MERN Stack
 - 📫 **How to reach me:** devanshi2005@gmail.com
